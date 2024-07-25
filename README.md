@@ -6,8 +6,10 @@ genetic algorithm is a method for solving both constrained and **unconstrained o
 algorithm repeatedly modifies a population of individual solutions. At each step, the genetic algorithm selects individuals at random from the current population to be parents and uses them to
 produce the children for the next generation. By providing the required criteria for resources,genetic algorithm produces a required candidate solution.
 
-Execution snapshots:
+`Execution snapshots` :
+
 1.
+
 ![1](https://github.com/user-attachments/assets/042fa9e9-c01b-4b82-931a-6fff788aa2df)
 
 2.
